@@ -1,0 +1,14 @@
+{
+  "name": "rtmpserver",
+  "version": "1.0.0",
+  "description": "RTMP Server for streaming.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abhishek Chandarana",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.1.8"
+  }
+}
